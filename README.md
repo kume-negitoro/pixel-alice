@@ -1,4 +1,7 @@
 # pixel-alice
+
+![pixel-alice](/pixel-alice_x1000.png)
+
 pixel-alice は kume-negitoro がその昔、函館高専ゲームプログラミング研究会で夏休みの宿題として描いたドット絵です。
 
 元々研究会内で自由に使える素材として配布する予定でしたが、忙しさに流されてうやむやになりました。
